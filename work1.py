@@ -1,0 +1,11 @@
+print("Hello M.6/11")
+print("My name is Thanakanok Kitnukul")
+print("No.38")
+print("age :",17,"years")
+print("My birthday is 8 November 2547")
+print("I study at Chonrasadornumrung")
+print("I live in chonburi")
+print("I'm from Thailand")
+print("My hobby is watching cartoon")
+print("My favorite cartoon is Doraemon")
+#Thanakanok Kitnukul M.6/11 No.38
